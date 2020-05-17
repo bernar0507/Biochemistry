@@ -1,5 +1,5 @@
-# Bioquimica
-Case study of curricular unit "Bioquimica" of my Bioinformatics degree.
+# Biochemistry
+Case study of curricular unit Biochemistry of my Bioinformatics degree.
 
 # What is this?
 This is a repository about the curricular unit "Bioquimica" of my Bioinformatics degree where I and my classmates made some case study.
